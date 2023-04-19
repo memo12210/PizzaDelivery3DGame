@@ -1,0 +1,14 @@
+{
+  "IconId": "4264717",
+  "IconName": "Tomato-64",
+  "IsPremium": false,
+  "IconFormat": "png",
+  "LicenseName": "Free* (Check https://www.flaticon.com/license/icon/4264717)",
+  "LicenseUrl": "https://www.flaticon.com/license/icon/4264717",
+  "Author": "Freepik",
+  "AuthorWebsite": "",
+  "IconApi": "FlatIcon",
+  "IconApiWebsite": "https://www.flaticon.com/",
+  "IconUrl": "https://www.flaticon.com/free-icon/tomato_4264717",
+  "PreviewUrl": "https://cdn-icons-png.flaticon.com/512/4264/4264717.png"
+}

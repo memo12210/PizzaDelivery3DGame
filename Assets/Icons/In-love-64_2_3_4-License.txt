@@ -1,0 +1,14 @@
+{
+  "IconId": "983030",
+  "IconName": "In-love-64_2_3_4",
+  "IsPremium": false,
+  "IconFormat": "png",
+  "LicenseName": "Free* (Check https://www.flaticon.com/license/icon/983030)",
+  "LicenseUrl": "https://www.flaticon.com/license/icon/983030",
+  "Author": "Freepik",
+  "AuthorWebsite": "",
+  "IconApi": "FlatIcon",
+  "IconApiWebsite": "https://www.flaticon.com/",
+  "IconUrl": "https://www.flaticon.com/free-icon/in-love_983030",
+  "PreviewUrl": "https://cdn-icons-png.flaticon.com/512/983/983030.png"
+}

@@ -1,0 +1,14 @@
+{
+  "IconId": "1784964",
+  "IconName": "Finger-64",
+  "IsPremium": false,
+  "IconFormat": "png",
+  "LicenseName": "Free* (Check https://www.flaticon.com/license/icon/1784964)",
+  "LicenseUrl": "https://www.flaticon.com/license/icon/1784964",
+  "Author": "Freepik",
+  "AuthorWebsite": "",
+  "IconApi": "FlatIcon",
+  "IconApiWebsite": "https://www.flaticon.com/",
+  "IconUrl": "https://www.flaticon.com/free-icon/finger_1784964",
+  "PreviewUrl": "https://cdn-icons-png.flaticon.com/512/1784/1784964.png"
+}
